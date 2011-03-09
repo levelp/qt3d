@@ -1,0 +1,5 @@
+<RCC>
+<qresource prefix="/">
+<file alias="FirstPersonCameraController.qml">../../qt3d/examples-common/FirstPersonCameraController.qml</file>
+</qresource>
+</RCC>
