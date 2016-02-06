@@ -36,7 +36,7 @@
 
 #include "qfirstpersoncameracontroller_p.h"
 #include "qfirstpersoncameracontroller.h"
-#include <Qt3DRender/QCamera>
+#include <Qt3DRenderer/QCameraSelector>
 #include <Qt3DInput/QAxis>
 #include <Qt3DInput/QAxisInput>
 #include <Qt3DInput/QAction>

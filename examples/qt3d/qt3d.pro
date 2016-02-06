@@ -43,10 +43,10 @@ SUBDIRS += \
     bigscene-instanced-qml \
     custom-mesh-qml \
     instanced-arrays-qml \
-    picking-qml \
+    #picking-qml \
     transforms-qml \
     lights \
-    compute-particles
+    #compute-particles
 
 
 # qmake seems to break in some CI configurations, disable this for now
